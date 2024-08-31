@@ -7,7 +7,7 @@ This is a basic Obsidian theme, only with modified colors, so nothing supernatur
 ![alt text](image.png)
 
 ### Light mode
-![alt text](image-1.png)
+![alt text](thumb1.png)
 
 
 #### Contributing
